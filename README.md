@@ -48,7 +48,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=c9d1d9&border_color=30363d&hide_border=false" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=c9d1d9&border_color=30363d&hide_border=false" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=lowsequence&show_icons=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=c9d1d9&border_color=30363d&hide_border=false" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowsequence&layout=compact&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=c9d1d9&border_color=30363d&hide_border=false" alt="Top Languages" width="48%" />
 
 <br/><br/>
 
@@ -56,7 +56,7 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=c9d1d9&line=8b949e&point=c9d1d9&area=true&hide_border=false&border_color=30363d" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lowsequence&bg_color=0d1117&color=c9d1d9&line=8b949e&point=c9d1d9&area=true&hide_border=false&border_color=30363d" alt="Activity Graph" width="100%" />
 
 <br/><br/>
 
@@ -72,6 +72,12 @@
     <img src="https://img.shields.io/badge/Email_Me-0d1117?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
   </a>
 </p>
+
+<br/><br/>
+
+<img src="https://media.tenor.com/PZcK_P6Wj2QAAAAC/lord-of-the-mysteries-klein-moretti.gif" alt="Klein Moretti" width="350" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://media.tenor.com/lT6t7U2WbQ0AAAAC/amon-lotm.gif" alt="Amon" width="350" />
 
 <br/><br/>
 
