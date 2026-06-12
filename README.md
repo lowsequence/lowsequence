@@ -70,6 +70,12 @@
 
 <p align="center">
   <a href="https://discord.com/users/1368989570816802886">
+    <img src="https://lanyard.cnrad.dev/api/1368989570816802886?theme=dark&bg=0d1117&animated=true" alt="Discord Profile" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://discord.com/users/1368989570816802886">
     <img src="https://img.shields.io/badge/Discord_Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="mailto:your.email@example.com">
