@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1308" height="736" alt="_-ezgif com-rotate" src="https://github.com/user-attachments/assets/fd477b26-b856-4932-b2bc-35b6e498a306" />
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=C9D1D9&background=0D111700&center=true&vCenter=true&width=600&height=60&lines=Initializing+System...;Welcome+to+my+Profile;Praise+the+Fool!;Python+%26+Discord+Specialist" alt="Typing SVG" />
 </a>
@@ -19,14 +19,14 @@
        print(f"Hi, I'm {user['name']}! I specialize in {user['stack'][0]} and {user['stack'][1]}.")
 ```
 
-
 <br/>
 
 > *"We are Guardians, but also a bunch of miserable wretches that are constantly fighting against threats and madness."*
 
 <br/><br/>
 
-### ❖ ── ✦ ──『 Technology Stack 』── ✦ ── ❖
+#### Technology Stack
+---
 
 <br/>
 
@@ -45,7 +45,8 @@
 
 <br/><br/>
 
-### ❖ ── ✦ ──『 Project Statistics 』── ✦ ── ❖
+#### Project Statistics
+---
 
 <br/>
 
@@ -53,7 +54,8 @@
 
 <br/><br/>
 
-### ❖ ── ✦ ──『 Contributions 』── ✦ ── ❖
+#### Contributions
+---
 
 <br/>
 
@@ -61,7 +63,8 @@
 
 <br/><br/>
 
-### ❖ ── ✦ ──『 Connections 』── ✦ ── ❖
+#### Connections
+---
 
 <br/>
 
