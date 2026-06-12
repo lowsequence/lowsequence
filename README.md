@@ -76,7 +76,7 @@
 <br/><br/>
 
 <!-- Paste your LOTM GIF URLs in the src attribute below -->
-<img src="https://via.placeholder.com/350x200/0d1117/c9d1d9?text=Insert+Klein+GIF+Here" alt="Klein Moretti" width="350" />
+<img src="https://giphy.com/gifs/animes-anime-edit-dounghua-s9fGBclTeUP1xoQpKY" alt="Klein Moretti" width="350" />
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://via.placeholder.com/350x200/0d1117/c9d1d9?text=Insert+Amon+GIF+Here" alt="Amon" width="350" />
 
