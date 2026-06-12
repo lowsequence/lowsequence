@@ -87,7 +87,7 @@
 
 <!-- Paste your LOTM GIF URLs in the src attribute below -->
 <img width="480" height="270" alt="Animes Anime Edit GIF" src="https://github.com/user-attachments/assets/8cda0027-1a77-4ee7-9444-10ac2c39089c" />
-<img src="https://via.placeholder.com/350x200/0d1117/c9d1d9?text=Insert+Amon+GIF+Here" alt="Amon" width="350" />
+<img width="480" height="476" alt="The Fool GIF" src="https://github.com/user-attachments/assets/f45a1f3a-8845-4cdf-bc3e-ff4d6fdeb55c" />
 
 <br/><br/>
 
