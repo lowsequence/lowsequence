@@ -75,9 +75,10 @@
 
 <br/><br/>
 
-<img src="https://media.tenor.com/PZcK_P6Wj2QAAAAC/lord-of-the-mysteries-klein-moretti.gif" alt="Klein Moretti" width="350" />
+<!-- Paste your LOTM GIF URLs in the src attribute below -->
+<img src="https://via.placeholder.com/350x200/0d1117/c9d1d9?text=Insert+Klein+GIF+Here" alt="Klein Moretti" width="350" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://media.tenor.com/lT6t7U2WbQ0AAAAC/amon-lotm.gif" alt="Amon" width="350" />
+<img src="https://via.placeholder.com/350x200/0d1117/c9d1d9?text=Insert+Amon+GIF+Here" alt="Amon" width="350" />
 
 <br/><br/>
 
