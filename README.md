@@ -68,25 +68,22 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://discord.com/users/1368989570816802886">
-    <img src="https://lanyard.cnrad.dev/api/1368989570816802886?theme=dark&bg=0d1117&animated=true" alt="Discord Profile" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://discord.com/users/1368989570816802886">
     <img src="https://img.shields.io/badge/Discord_Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:shadow4twix@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-0d1117?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <br/><br/>
 
-<!-- Paste your LOTM GIF URLs in the src attribute below -->
 <img width="480" height="270" alt="Animes Anime Edit GIF" src="https://github.com/user-attachments/assets/8cda0027-1a77-4ee7-9444-10ac2c39089c" />
+
+<br/><br/>
+
 <img width="480" height="476" alt="The Fool GIF" src="https://github.com/user-attachments/assets/f45a1f3a-8845-4cdf-bc3e-ff4d6fdeb55c" />
 
 <br/><br/>
