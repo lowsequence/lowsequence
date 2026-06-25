@@ -11,7 +11,7 @@
            "name": "Shadow",
            "pathway": "Developer Pathway",
            "sequence": "Sequence 4: Bizarro Coder",
-           "stack": ["Python/JS", "Discord Bots", "Go", "Rust"],
+           "stack": ["Python/JS", "Discord Bots", "Go"],
            "status": "Digesting the potion... and building bots.",
            "honorific_name": "The tired dev who doesn't belong to this era, the ruler of spaghetti code and Discord bots."
        }
