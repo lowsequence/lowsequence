@@ -25,25 +25,6 @@
 
 <br/><br/>
 
-#### Technology Stack
----
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=c9d1d9" alt="Python" />
-  <img src="https://img.shields.io/badge/Discord.py-0d1117?style=for-the-badge&logo=discord&logoColor=c9d1d9" alt="Discord.py" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=c9d1d9" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Discord.js-0d1117?style=for-the-badge&logo=discord&logoColor=c9d1d9" alt="Discord.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=c9d1d9" alt="PostgreSQL" />
-  <br/>
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=c9d1d9" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=c9d1d9" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=c9d1d9" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=c9d1d9" alt="Rust" />
-</p>
-
-<br/><br/>
 
 #### Project Statistics
 ---
