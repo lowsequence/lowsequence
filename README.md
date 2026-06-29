@@ -19,11 +19,7 @@ print(f"Hi, I'm {user['name']}! I specialize in {user['stack'][0]} and {user['st
 <a href="https://discord.com/users/1368989570816802886">
   <img src="https://lanyard.cnrad.dev/api/1368989570816802886?bg=0d1117&hide_discrim=true" alt="Discord Presence" />
 </a>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=lowsequence&show_icons=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=c9d1d9&border_color=30363d&hide_border=true" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowsequence&layout=compact&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=c9d1d9&border_color=30363d&hide_border=true" alt="Top Languages" width="48%" />
-
+ 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lowsequence&bg_color=0d1117&color=c9d1d9&line=8b949e&point=c9d1d9&area=true&hide_border=true&border_color=30363d" alt="Activity Graph" width="97%" />
