@@ -17,7 +17,7 @@ print(f"Hi, I'm {user['name']}! I specialize in {user['stack'][0]} and {user['st
 <br/>
 
 <a href="https://discord.com/users/1368989570816802886">
-  <img src="https://lanyard.kyrie25.dev/api/1368989570816802886?theme=dark&bg=1a1b26&animated=true" alt="Discord Presence" />
+  <img src="https://lanyard.kyrie25.dev/api/1368989570816802886?bg=1a1b26&waveColor=7aa2f7&waveSpotifyColor=9ece6a&gradient=7aa2f7&borderRadius=25px" alt="Discord Presence" />
 </a>
  
 <br/>
