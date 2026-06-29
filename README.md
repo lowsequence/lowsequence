@@ -9,7 +9,7 @@ user = {
     "name": "Shadow",
     "role": "Backend Engineer",
     "stack": ["Python/JS", "Discord Bots", "Go"],
-    "status": "sleeping ig."
+    "status": "sleeping ig"
 }
 print(f"Hi, I'm {user['name']}! I specialize in {user['stack'][0]} and {user['stack'][1]}.")
 ```
